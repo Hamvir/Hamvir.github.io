@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 ---
 # Major Project
 ## proj 1
