@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Work experience
+title: Experience
 ---
-# Experience
-## topic 1
+
+# topic 1
 description
-## topic 2
+# topic 2
 description
