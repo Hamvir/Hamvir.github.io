@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "About me"
+title: About me
 ---
 Add your about
