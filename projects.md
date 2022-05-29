@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Projects
+layout: page
+
 ---
 # Major Project
 ## proj 1
