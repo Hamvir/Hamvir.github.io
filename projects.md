@@ -2,7 +2,7 @@
 layout: page
 
 ---
- 
+ gg
 # Major Project
 ## proj 1
 descrip
