@@ -1,5 +1,5 @@
 ---
-layout: default
-title: About me
+layout: page
+title: "About me"
 ---
 Add your about
