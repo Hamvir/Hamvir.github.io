@@ -5,5 +5,5 @@ layout: page
 {% if site.show_excerpts %}
   {% include home2.html %}
 {% else %}
-  {% include archive.html title="other experiences" %}
+  {% include archive2.html title="other experiences" %}
 {% endif %}
