@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "work_experience.md", title: Work experience}
   - {file: "projects.md", title: Projects}
   - {file: "blog.md", title: Interview}
+  - {file: "blog2.md", title: other experiences}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
