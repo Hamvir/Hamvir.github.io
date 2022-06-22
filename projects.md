@@ -1,5 +1,6 @@
 ---
 layout: page
+title: My projects
 
 ---
 ## Major Project
