@@ -2,13 +2,13 @@
 layout: page
 
 ---
-# Major Project
-## proj 1
+## Major Project
+### proj 1
 descrip
-## proj 2
+### proj 2
 descrip
-# Minor Project
-## proj 1
+## Minor Project
+### proj 1
 descrip
-## proj 2
+### proj 2
 descrip
