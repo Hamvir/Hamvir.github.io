@@ -3,9 +3,8 @@ layout: page
 title: My projects
 
 ---
-## Major Project
-### proj 1
-description
+## Final Year Project - Smart Stick for blind people prototype
+
 ### proj 2
 descrip
 ## Minor Project
