@@ -4,7 +4,7 @@ layout: page
 ---
 ## Major Project
 ### proj 1
-descrip
+description
 ### proj 2
 descrip
 ## Minor Project
