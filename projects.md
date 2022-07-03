@@ -6,7 +6,7 @@ title: My projects
 ## Final Year Project - Smart Stick for blind people prototype
 
 
-## Minor Project
+## Minor Project ff
 ### counter
 descrip
 ### proj 2
