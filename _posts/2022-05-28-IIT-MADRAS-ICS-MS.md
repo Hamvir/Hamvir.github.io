@@ -7,6 +7,4 @@ In IIT madras EE6 department has 3 divisions for doing MS. They are analog, digi
 ## TI sponsored MS
 19th may 2022
 
----
-
 It has 2 steps first is a written round of 10 questions and then an interview round. For preparation in analog domain you can watch the videos of IIT madras "Analog Circuits" (nptel) videos. The videos are enough for solving the questions asked in written exam. For TI sponsored written test questions
