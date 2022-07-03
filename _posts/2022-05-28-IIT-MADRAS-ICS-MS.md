@@ -21,4 +21,6 @@ In IIT madras EE6 department has 3 divisions for doing MS. They are analog, digi
 ## Normal MS(digital)
 25th may 2022
 
->
+>We were mailed a number of questions and we had to choose a question and code that and send them the answer. My question was to implement a circuit of gates using a c program.
+
+>In interview round they will ask to explain your code and possible other ways to solve the same question. They also asked me questions on clocks, gates and d-flip flops.
