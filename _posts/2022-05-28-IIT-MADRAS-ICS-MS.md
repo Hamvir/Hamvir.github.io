@@ -9,7 +9,7 @@ In IIT madras EE6 department has 3 divisions for doing MS. They are analog, digi
 
 >It has 2 steps first is a written round of 10 questions and then an interview round. For preparation in analog domain you can watch the videos of IIT madras "Analog Circuits" (nptel) videos. The videos are enough for solving the questions asked in written exam. For TI sponsored, mosfet, BJT and opamp are the most important questions. Questiopns will be a combination of above like mosfet with opamp or different mosfet combination and their small signal analysis.Questions were of numerical type like small signal output to input ratio.
 
-><5 students were shortlisted for interview round and I was fortunately one of them. >For me interview round began on that day only.In interview round they will ask on mistakes you have done in your written test. Out of 10 questions I had answered 8 correct and 2 wrong so most of my questions were on these 2 mistakes. Besides this they asked me on opamp.
+>5 students were shortlisted for interview round and I was fortunately one of them. For me interview round began on that day only.In interview round they will ask on mistakes you have done in your written test. Out of 10 questions I had answered 8 correct and 2 wrong so most of my questions were on these 2 mistakes. Besides this they asked me on opamp.
 
 ## Normal MS(Analog)
 20th may 2022
